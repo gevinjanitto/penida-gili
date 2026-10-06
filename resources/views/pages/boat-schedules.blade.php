@@ -130,10 +130,13 @@
                         <div class="relative h-[190px] overflow-hidden md:h-full md:min-h-[230px]">
                             <img src="{{ $image }}" alt="{{ $vessel?->name }}" loading="lazy" class="pg-zoom absolute inset-0 size-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/45 via-transparent to-transparent"></div>
-                            <span class="absolute left-3 top-3 inline-flex items-center gap-1.5 rounded-full bg-white/90 px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-brand backdrop-blur lg:left-4 lg:top-4 lg:text-[12px]">
+                            @if ($vessel)
+                                <a href="{{ route('boats.vessel', $vessel) }}" class="absolute inset-0 z-[2]" aria-label="View {{ $vessel->name }} details"></a>
+                            @endif
+                            <span class="pointer-events-none absolute left-3 top-3 z-[3] inline-flex items-center gap-1.5 rounded-full bg-white/90 px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-brand backdrop-blur lg:left-4 lg:top-4 lg:text-[12px]">
                                 <span class="size-1.5 animate-pulse rounded-full bg-emerald-500"></span> Departure
                             </span>
-                            <span class="absolute bottom-3 left-3 inline-flex items-center gap-1 rounded-full bg-black/40 px-2.5 py-1 text-[12px] font-semibold text-white backdrop-blur lg:bottom-4 lg:left-4 lg:text-[14px]">
+                            <span class="pointer-events-none absolute bottom-3 left-3 z-[3] inline-flex items-center gap-1 rounded-full bg-black/40 px-2.5 py-1 text-[12px] font-semibold text-white backdrop-blur lg:bottom-4 lg:left-4 lg:text-[14px]">
                                 <x-ui-icon name="star" class="size-3.5 fill-amber-400 text-amber-400" /> {{ number_format($rating, 1) }}
                             </span>
                         </div>

@@ -11,7 +11,7 @@
             @include('components.boat-card', [
                 'delay'       => $index * 90,
                 'name'        => $boat['name'],
-                'description' => $boat['plain_description'],
+                'description' => $boat['description'],
                 'rating'      => $boat['rating'],
                 'image'       => $boat['image_url'],
                 'routes'      => $boat['route_count'],
