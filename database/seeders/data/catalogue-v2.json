@@ -1,0 +1,1152 @@
+{
+ "version": 2,
+ "hotels": {
+  "the-nusa-penida-resort-spa": {
+   "image": "nusa-penida-resort.png",
+   "harbor_distance": "10 minutes from Toya Pakeh harbor",
+   "description": "<p>Experience unparalleled luxury on the edge of the world. <strong>The Nusa Penida Resort &amp; Spa</strong> sits on the quiet north-west coast between Toya Pakeh and Ped, a sanctuary of tranquility with sweeping views across the Badung Strait to Bali&rsquo;s volcanoes. Designed for the discerning traveler, the resort blends modern elegance with authentic Balinese charm.</p><p>Days start with sunrise over Mount Agung from your private balcony and end with candle-lit dinners on the cliff terrace. In between, swim in the cascading infinity pool, unwind with a traditional boreh massage in the spa pavilions, or let our concierge arrange snorkeling with manta rays and private drivers to Kelingking and Diamond Beach.</p><ul><li>Infinity pool and sunset bar overlooking the Indian Ocean</li><li>Balinese spa with four treatment pavilions</li><li>Free fast-boat pick-up from Toya Pakeh harbor</li></ul>",
+   "gallery": [
+    {
+     "image": "pool-main.png",
+     "alt": "Infinity pool overlooking the ocean"
+    },
+    {
+     "image": "the-nusa-penida/cliff-lounge.jpg",
+     "alt": "Cliff-edge lounge above the sea"
+    },
+    {
+     "image": "room-deluxe.png",
+     "alt": "Deluxe ocean room"
+    },
+    {
+     "image": "sunset-dining.png",
+     "alt": "Sunset dining terrace"
+    },
+    {
+     "image": "suite.png",
+     "alt": "Spa treatment pavilion"
+    },
+    {
+     "image": "cocktail.png",
+     "alt": "Cocktail at the sunset bar"
+    },
+    {
+     "image": "room-villa.png",
+     "alt": "Private pool villa"
+    }
+   ],
+   "highlights": [
+    {
+     "title": "Infinity pool above the strait",
+     "body": "A 30-metre infinity edge looks straight across to Mount Agung — at its best at sunrise and during the golden hour."
+    },
+    {
+     "title": "Balinese spa rituals",
+     "body": "Four open-air pavilions offer boreh scrubs, flower baths and traditional massage using island-grown coconut oil."
+    },
+    {
+     "title": "Ocean-to-table dining",
+     "body": "The cliff terrace serves the day’s catch from Toya Pakeh fishermen alongside Balinese classics and a long wine list."
+    },
+    {
+     "title": "Seamless island transfers",
+     "body": "We meet every fast boat at Toya Pakeh harbor and can book your onward Penida Gili crossing at reception."
+    }
+   ],
+   "policies": [
+    {
+     "label": "Check-in",
+     "value": "From 2:00 PM"
+    },
+    {
+     "label": "Check-out",
+     "value": "Until 12:00 PM"
+    },
+    {
+     "label": "Breakfast",
+     "value": "Included for all room types, 7:00–10:30 AM"
+    },
+    {
+     "label": "Harbor transfer",
+     "value": "Free pick-up from Toya Pakeh harbor"
+    },
+    {
+     "label": "Children",
+     "value": "Welcome; under 6 stay free using existing beds"
+    },
+    {
+     "label": "Good to know",
+     "value": "Reef-safe sunscreen is provided at the pool"
+    }
+   ],
+   "nearby": [
+    {
+     "name": "Toya Pakeh Harbor",
+     "distance": "10 min drive"
+    },
+    {
+     "name": "Crystal Bay Beach",
+     "distance": "25 min drive"
+    },
+    {
+     "name": "Manta Point (by boat)",
+     "distance": "35 min"
+    },
+    {
+     "name": "Kelingking Beach",
+     "distance": "45 min drive"
+    },
+    {
+     "name": "Pura Dalem Ped Temple",
+     "distance": "8 min drive"
+    },
+    {
+     "name": "Goa Giri Putri Cave Temple",
+     "distance": "40 min drive"
+    }
+   ],
+   "rooms": {
+    "Deluxe Ocean Room": {
+     "image": "room-deluxe.png"
+    },
+    "Private Pool Villa": {
+     "image": "room-villa.png"
+    }
+   }
+  },
+  "meru-resort-spa": {
+   "image": "meru-resort.png",
+   "harbor_distance": "20 minutes from Toya Pakeh harbor",
+   "description": "<p><strong>Meru Resort &amp; Spa</strong> is a hideaway of garden villas just above Crystal Bay, one of Nusa Penida&rsquo;s calmest and clearest bays. Thatched pavilions, frangipani gardens and private plunge pools make it a favourite for honeymooners and anyone who wants the beach at their doorstep.</p><p>Walk five minutes downhill for morning snorkeling over coral gardens, return for a long breakfast by the pool and spend the afternoon with a massage in the open-air spa. At sunset the beach club lights its lanterns and the whole bay turns gold.</p><ul><li>Garden pool villas with outdoor bathtubs</li><li>Beach club on Crystal Bay with sun loungers</li><li>Daily snorkel trips to Crystal Bay and Gamat Bay</li></ul>",
+   "gallery": [
+    {
+     "image": "meru/crystal-bay-beach.jpg",
+     "alt": "Crystal Bay seen from the resort hill"
+    },
+    {
+     "image": "villa-pool.jpg",
+     "alt": "Private pool villa"
+    },
+    {
+     "image": "meru/garden-pool-villa.jpg",
+     "alt": "Garden villa with plunge pool"
+    },
+    {
+     "image": "meru/villa-bedroom.jpg",
+     "alt": "Teak villa bedroom"
+    },
+    {
+     "image": "meru/beach-club.jpg",
+     "alt": "Beach club loungers on the bay"
+    },
+    {
+     "image": "suite-terrace.jpg",
+     "alt": "Suite terrace with ocean view"
+    },
+    {
+     "image": "meru/villa-terrace.jpg",
+     "alt": "Villa terrace and pool"
+    }
+   ],
+   "highlights": [
+    {
+     "title": "Steps from Crystal Bay",
+     "body": "A short garden path leads to the white sand and the reef — the best snorkeling on the island is right here."
+    },
+    {
+     "title": "Villas with plunge pools",
+     "body": "Every villa hides behind its own stone wall, with a plunge pool, sun deck and an outdoor rain shower."
+    },
+    {
+     "title": "Sunset beach club",
+     "body": "Lanterns, fresh coconuts and grilled seafood as the sun drops behind Bali’s Bukit peninsula."
+    },
+    {
+     "title": "Mola-mola season trips",
+     "body": "From July to October our dive partner runs early boats to spot the giant sunfish at Crystal Bay."
+    }
+   ],
+   "policies": [
+    {
+     "label": "Check-in",
+     "value": "From 2:00 PM"
+    },
+    {
+     "label": "Check-out",
+     "value": "Until 11:00 AM"
+    },
+    {
+     "label": "Breakfast",
+     "value": "Included, served in the pavilion or in-villa"
+    },
+    {
+     "label": "Harbor transfer",
+     "value": "Shared shuttle from Toya Pakeh harbor (IDR 75,000)"
+    },
+    {
+     "label": "Children",
+     "value": "Children of all ages welcome"
+    },
+    {
+     "label": "Good to know",
+     "value": "Roads to Crystal Bay are steep — we recommend our shuttle over scooters"
+    }
+   ],
+   "nearby": [
+    {
+     "name": "Crystal Bay Beach",
+     "distance": "5 min walk"
+    },
+    {
+     "name": "Angel's Billabong",
+     "distance": "35 min drive"
+    },
+    {
+     "name": "Broken Beach",
+     "distance": "35 min drive"
+    },
+    {
+     "name": "Toya Pakeh Harbor",
+     "distance": "20 min drive"
+    },
+    {
+     "name": "Sakti village market",
+     "distance": "10 min drive"
+    }
+   ],
+   "rooms": {
+    "Deluxe Ocean Room": {
+     "image": "meru/villa-bedroom.jpg"
+    },
+    "Private Pool Villa": {
+     "image": "meru/garden-pool-villa.jpg"
+    }
+   }
+  },
+  "grand-hyatt-resort-spa": {
+   "image": "detail/pool-loungers.jpg",
+   "harbor_distance": "5 minutes from Sanur fast-boat harbor",
+   "description": "<p>Set on the Sanur beachfront along Jalan Danau Tamblingan, <strong>Grand Hyatt Resort &amp; Spa</strong> is the easiest base for island hopping: the Sanur fast-boat harbor is five minutes away, yet the resort feels a world apart with lagoon pools, palm-shaded gardens and a calm reef-protected beach.</p><p>Spend the night before your early crossing in an ocean-view room, take the free shuttle to the harbor in the morning, and come back to Sanur&rsquo;s cafés, sunrise beach walks and the spa after your trip to Nusa Penida, Lembongan or the Gilis.</p><ul><li>Lagoon pools and a quiet stretch of Sanur beach</li><li>Free shuttle to the Sanur fast-boat harbor</li><li>Luggage storage while you explore the islands</li></ul>",
+   "gallery": [
+    {
+     "image": "sanur/beachfront-aerial.jpg",
+     "alt": "Sanur beachfront from above"
+    },
+    {
+     "image": "pool-loungers.jpg",
+     "alt": "Pool loungers in the garden"
+    },
+    {
+     "image": "sanur/pool-courtyard.jpg",
+     "alt": "Courtyard pool villa"
+    },
+    {
+     "image": "sanur/ocean-balcony.jpg",
+     "alt": "Ocean-view balcony"
+    },
+    {
+     "image": "sanur/spa.png",
+     "alt": "Spa treatment room"
+    },
+    {
+     "image": "sanur/balcony-lounge.jpg",
+     "alt": "Balcony lounge with sea view"
+    },
+    {
+     "image": "sanur/sea-view-counter.jpg",
+     "alt": "Sea-view breakfast counter"
+    }
+   ],
+   "highlights": [
+    {
+     "title": "Five minutes to the boats",
+     "body": "Our shuttle leaves for the Sanur harbor before every morning departure, so you never miss the calm-water crossing."
+    },
+    {
+     "title": "Reef-protected beach",
+     "body": "Sanur’s outer reef keeps the water flat — perfect for paddle boarding at sunrise and for families with young children."
+    },
+    {
+     "title": "Luggage minding",
+     "body": "Travel light to the islands: leave big bags with the concierge free of charge for up to seven nights."
+    },
+    {
+     "title": "Sanur at your doorstep",
+     "body": "The beachfront promenade, night market and dozens of cafés are an easy walk from the lobby."
+    }
+   ],
+   "policies": [
+    {
+     "label": "Check-in",
+     "value": "From 3:00 PM (early check-in on request)"
+    },
+    {
+     "label": "Check-out",
+     "value": "Until 12:00 PM"
+    },
+    {
+     "label": "Breakfast",
+     "value": "Buffet breakfast from 6:00 AM for early boats"
+    },
+    {
+     "label": "Harbor transfer",
+     "value": "Free shuttle to Sanur harbor"
+    },
+    {
+     "label": "Children",
+     "value": "Kids’ club for ages 4–12"
+    },
+    {
+     "label": "Good to know",
+     "value": "Luggage storage is free while you visit the islands"
+    }
+   ],
+   "nearby": [
+    {
+     "name": "Sanur Fast-Boat Harbor",
+     "distance": "5 min drive"
+    },
+    {
+     "name": "Sanur Beach Promenade",
+     "distance": "2 min walk"
+    },
+    {
+     "name": "Sindhu Night Market",
+     "distance": "10 min walk"
+    },
+    {
+     "name": "Ngurah Rai Airport",
+     "distance": "30 min drive"
+    },
+    {
+     "name": "Ubud",
+     "distance": "50 min drive"
+    }
+   ],
+   "rooms": {
+    "Deluxe Ocean Room": {
+     "image": "sanur/ocean-balcony.jpg"
+    },
+    "Private Pool Villa": {
+     "image": "sanur/pool-courtyard.jpg"
+    }
+   }
+  },
+  "semabu-hills-hotel-nusa-penida": {
+   "image": "semabu-hills.jpg",
+   "harbor_distance": "12 minutes from Banjar Nyuh harbor",
+   "description": "<p>High on the green slopes above Ped, <strong>Semabu Hills Hotel</strong> trades beachfront bustle for jungle calm. Rooms open onto tropical gardens and the hotel&rsquo;s signature tiered pools, with views over the coconut groves to the sea and, on clear mornings, to Mount Agung on Bali.</p><p>It is a peaceful base for exploring the east of the island — Atuh Beach, the Thousand Islands viewpoint, the Tree House and the cave temple of Goa Giri Putri — while our kitchen cooks Balinese family recipes with vegetables from the hotel garden.</p><ul><li>Tiered jungle pools with daybeds</li><li>Hillside rooms with garden terraces</li><li>Driver and scooter rental for the east-coast loop</li></ul>",
+   "gallery": [
+    {
+     "image": "semabu/sunrise-infinity-pool.jpg",
+     "alt": "Infinity pool at sunrise with volcano view"
+    },
+    {
+     "image": "jungle-pool.jpg",
+     "alt": "Garden pool facing the rice fields"
+    },
+    {
+     "image": "semabu/cascading-pool.jpg",
+     "alt": "Cascading jungle pools"
+    },
+    {
+     "image": "semabu/daybed-pool.jpg",
+     "alt": "Poolside daybed in the garden"
+    },
+    {
+     "image": "semabu/treehouse-deck.jpg",
+     "alt": "Tree House deck overlooking Atuh coast"
+    },
+    {
+     "image": "semabu/treehouse-view.jpg",
+     "alt": "Thousand Islands viewpoint nearby"
+    }
+   ],
+   "highlights": [
+    {
+     "title": "Tiered jungle pools",
+     "body": "Three spring-fed pools step down the hillside, each with daybeds shaded by frangipani and banana palms."
+    },
+    {
+     "title": "Cool hillside breezes",
+     "body": "At 150 metres above the sea, evenings are fresh enough to sleep with the doors open to the garden."
+    },
+    {
+     "title": "Gateway to the east coast",
+     "body": "Atuh Beach, Diamond Beach and the Tree House are a scenic 45-minute drive — we arrange early starts to beat the crowds."
+    },
+    {
+     "title": "Garden-to-table kitchen",
+     "body": "Try betutu chicken, urab salad and fresh sambal made with herbs and chilies from the hotel garden."
+    }
+   ],
+   "policies": [
+    {
+     "label": "Check-in",
+     "value": "From 2:00 PM"
+    },
+    {
+     "label": "Check-out",
+     "value": "Until 11:00 AM"
+    },
+    {
+     "label": "Breakfast",
+     "value": "Included, Balinese or continental"
+    },
+    {
+     "label": "Harbor transfer",
+     "value": "Pick-up from Banjar Nyuh or Toya Pakeh (IDR 100,000 per car)"
+    },
+    {
+     "label": "Children",
+     "value": "Welcome; extra bed IDR 250,000"
+    },
+    {
+     "label": "Good to know",
+     "value": "The access road is steep — book our driver for luggage"
+    }
+   ],
+   "nearby": [
+    {
+     "name": "Pura Dalem Ped Temple",
+     "distance": "10 min drive"
+    },
+    {
+     "name": "Banjar Nyuh Harbor",
+     "distance": "12 min drive"
+    },
+    {
+     "name": "Goa Giri Putri Cave Temple",
+     "distance": "30 min drive"
+    },
+    {
+     "name": "Atuh Beach & Diamond Beach",
+     "distance": "45 min drive"
+    },
+    {
+     "name": "Tree House Molenteng",
+     "distance": "45 min drive"
+    }
+   ],
+   "rooms": {
+    "Deluxe Ocean Room": {
+     "image": "bedroom-ocean.jpg"
+    },
+    "Private Pool Villa": {
+     "image": "jungle-pool.jpg"
+    }
+   }
+  },
+  "batu-karang-lembongan-resort": {
+   "image": "batu-karang-lembongan.jpg",
+   "harbor_distance": "5 minutes from Jungutbatu beach landing",
+   "description": "<p>Perched on the limestone cliffs above Jungutbatu, <strong>Batu Karang Lembongan Resort</strong> looks out over the surf breaks of Nusa Lembongan to the peaks of Bali. Terraced suites, an adults-friendly cliff pool and a laid-back bar make it the island&rsquo;s classic sunset spot.</p><p>Fast boats from Sanur land on the beach just below, so you can be in the pool within minutes of arriving. Rent a bicycle to cross the Yellow Bridge to Ceningan, paddle through the mangroves at dawn, or watch the waves explode at Devil&rsquo;s Tear before dinner on the terrace.</p><ul><li>Cliff-top pool and sunset bar</li><li>Ocean-view suites with private terraces</li><li>Bicycles, kayaks and snorkel gear free for guests</li></ul>",
+   "gallery": [
+    {
+     "image": "batu-karang/cliff-resort.jpg",
+     "alt": "Cliff-top resort above the ocean"
+    },
+    {
+     "image": "batu-karang/coastline.jpg",
+     "alt": "Lembongan coastline from the resort"
+    },
+    {
+     "image": "batu-karang/ocean-cliffs.jpg",
+     "alt": "Ocean cliffs framed by trees"
+    },
+    {
+     "image": "batu-karang/garden-view.jpg",
+     "alt": "Garden terrace overlooking the beach"
+    },
+    {
+     "image": "batu-karang/cliff-lounge.jpg",
+     "alt": "Cliff lounge above the water"
+    }
+   ],
+   "highlights": [
+    {
+     "title": "The best sunset on Lembongan",
+     "body": "The cliff bar faces due west — the sun sets behind Bali’s volcanoes every evening of the dry season."
+    },
+    {
+     "title": "Beach landing below",
+     "body": "Fast boats from Sanur arrive at Jungutbatu beach, a five-minute ride from reception with free luggage carry."
+    },
+    {
+     "title": "Free bikes and kayaks",
+     "body": "Cycle the coast road to the Yellow Bridge and Ceningan or kayak the calm lagoon at high tide."
+    },
+    {
+     "title": "Surf and snorkel at the door",
+     "body": "Shipwrecks, Lacerations and Playgrounds breaks are just offshore, with a reef for snorkeling at low tide."
+    }
+   ],
+   "policies": [
+    {
+     "label": "Check-in",
+     "value": "From 2:00 PM"
+    },
+    {
+     "label": "Check-out",
+     "value": "Until 12:00 PM"
+    },
+    {
+     "label": "Breakfast",
+     "value": "Included, served on the cliff terrace"
+    },
+    {
+     "label": "Harbor transfer",
+     "value": "Free pick-up from Jungutbatu beach landing"
+    },
+    {
+     "label": "Children",
+     "value": "Children 12+ recommended (cliff-edge pool)"
+    },
+    {
+     "label": "Good to know",
+     "value": "Wear water shoes — boats land directly on the beach"
+    }
+   ],
+   "nearby": [
+    {
+     "name": "Jungutbatu Beach Landing",
+     "distance": "5 min drive"
+    },
+    {
+     "name": "Mangrove Forest",
+     "distance": "10 min drive"
+    },
+    {
+     "name": "Devil's Tear",
+     "distance": "15 min drive"
+    },
+    {
+     "name": "Yellow Bridge to Ceningan",
+     "distance": "15 min drive"
+    },
+    {
+     "name": "Dream Beach",
+     "distance": "15 min drive"
+    }
+   ],
+   "rooms": {
+    "Deluxe Ocean Room": {
+     "image": "suite-terrace.jpg"
+    },
+    "Private Pool Villa": {
+     "image": "room-villa.png"
+    }
+   }
+  }
+ },
+ "activities": {
+  "balinese-traditional-costume-rental-at-penglipuran": {
+   "image": "costume-penglipuran.png",
+   "summary_image": "couple-dress.png",
+   "gallery": [
+    {
+     "image": "costume-main.png",
+     "alt": "Balinese traditional dress"
+    },
+    {
+     "image": "family-dress.png",
+     "alt": "Family in Balinese dress"
+    },
+    {
+     "image": "village-street.png",
+     "alt": "Penglipuran village street"
+    }
+   ],
+   "intro": "Capture special moments wearing traditional Balinese costumes in Penglipuran Village, one of the most beautiful traditional villages in Bali.",
+   "description": "<p>Experience the unique feeling of wearing premium traditional Balinese costumes and capture every moment in <strong>Penglipuran Village</strong>, a tourist village famous for its beauty, cleanliness and cultural preservation. With a backdrop of traditional houses, neatly arranged stone streets and a serene rural atmosphere, every corner of the village is a perfect photo location.</p><p>Our dressers help you choose between the elegant <em>kebaya</em> and <em>kamen</em> for women and the <em>udeng</em>, <em>saput</em> and <em>kamen</em> for men, complete with gold-leaf accessories and fresh frangipani. Make-up and hair styling are done on site so you step out camera-ready.</p><p>This activity suits individuals, couples, families and groups who want to experience Balinese culture up close — and bring home memories from one of the most iconic villages on the Island of the Gods.</p>",
+   "experiences": [
+    {
+     "title": "Wear Premium Traditional Balinese Costumes",
+     "body": "Experience wearing traditional Balinese costumes complete with elegant traditional accessories, perfect for creating an authentic and memorable look."
+    },
+    {
+     "title": "Take Photos in Penglipuran Village",
+     "body": "Capture moments in one of the most beautiful villages in Bali, famous for its traditional houses, neatly arranged streets and very natural rural atmosphere."
+    },
+    {
+     "title": "Instagrammable Photos",
+     "body": "Every corner of Penglipuran Village offers a beautiful and aesthetic backdrop, making every photo look more attractive and full of character."
+    },
+    {
+     "title": "Walk the Bamboo Forest",
+     "body": "End your session in the cool bamboo forest behind the village — a sacred grove that has protected Penglipuran for generations."
+    }
+   ],
+   "included": [
+    "Traditional Balinese Attire",
+    "Makeup & Hair Styling",
+    "Local Accessories",
+    "Village Entrance Ticket"
+   ],
+   "excluded": [
+    "Transportation to location",
+    "Personal expenses",
+    "Food & drinks"
+   ],
+   "important_notes": "Arrive 15 minutes early for fitting and make-up.\nPlease wear a simple tank top and shorts under the costume.\nThe village is a living community — ask before photographing residents."
+  },
+  "barong-and-kris-dance": {
+   "image": "barong-kris-dance.png",
+   "summary_image": "barong/legong-ensemble.jpg",
+   "gallery": [
+    {
+     "image": "barong/barong-kris.jpg",
+     "alt": "Barong and kris dancer on stage"
+    },
+    {
+     "image": "barong/barong-mask.jpg",
+     "alt": "Close-up of the Barong mask"
+    },
+    {
+     "image": "barong/stage.jpg",
+     "alt": "Performers on the open-air stage"
+    },
+    {
+     "image": "barong/barong-ceremony.jpg",
+     "alt": "Barong at a temple ceremony"
+    }
+   ],
+   "intro": "Watch the legendary battle between the Barong and the witch Rangda — Bali’s most dramatic dance, performed to a live gamelan orchestra.",
+   "description": "<p>The <strong>Barong and Kris Dance</strong> tells the eternal story of the struggle between good and evil. The Barong, a lion-like guardian spirit, faces Rangda, the queen of demons, while entranced warriors turn their <em>kris</em> daggers on themselves — protected only by the Barong’s magic.</p><p>Performed every morning on an open-air stage in Batubulan, the one-hour show features elaborate masks, gold-leaf costumes and a full gamelan orchestra. A printed synopsis in English helps you follow each of the five acts.</p><p>Combine it with a visit to the stone-carving and silver workshops of Batubulan and Celuk, or continue to Ubud for lunch — our driver can tailor the half-day to you.</p>",
+   "experiences": [
+    {
+     "title": "Watch the Battle of Good and Evil",
+     "body": "Follow the mythical Barong as it faces the witch Rangda in a dance passed down through generations."
+    },
+    {
+     "title": "Hear a Live Gamelan Orchestra",
+     "body": "Twenty musicians play bronze metallophones, gongs and drums that drive every movement of the dancers."
+    },
+    {
+     "title": "See the Kris Trance",
+     "body": "Witness the dramatic finale where entranced dancers press their daggers to their chests without harm."
+    },
+    {
+     "title": "Meet the Performers",
+     "body": "After the show, take photos with the Barong and Rangda dancers in full costume."
+    }
+   ],
+   "included": [
+    "Reserved show seat",
+    "English synopsis booklet",
+    "Mineral water",
+    "Hotel pick-up in South Bali (with transfer option)"
+   ],
+   "excluded": [
+    "Lunch",
+    "Tips for the dancers",
+    "Personal expenses"
+   ],
+   "important_notes": "The show starts at 9:30 AM — please arrive by 9:00 AM.\nFront rows fill first; seats are allocated on arrival.\nSome scenes are dramatic and may frighten very young children."
+  },
+  "bali-farm-house": {
+   "image": "bali-farm-house.png",
+   "summary_image": "farm/offering-weaving.jpg",
+   "gallery": [
+    {
+     "image": "farm/ox-plough.jpg",
+     "alt": "Farmer ploughing a rice field with cows"
+    },
+    {
+     "image": "farm/rice-field-volcano.jpg",
+     "alt": "Rice fields beneath the volcano"
+    },
+    {
+     "image": "farm/rice-planting.jpg",
+     "alt": "Planting rice in the paddy"
+    }
+   ],
+   "intro": "Spend a hands-on day on a working Balinese farm — plough the paddies, plant rice, cook in a village kitchen and learn how offerings are woven.",
+   "description": "<p>At the <strong>Bali Farm House</strong> you trade the beach for the rhythm of rural life. Guided by a farming family, you will walk the <em>subak</em> irrigation channels — a UNESCO-listed water-sharing system over a thousand years old — and learn how rice is grown from seed to harvest.</p><p>Roll up your trousers to plough the mud behind a pair of cows, plant seedlings in neat rows and then wash off in the spring before lunch. In the open kitchen you will grind spices for <em>base genep</em> and cook a home-style Balinese meal together.</p><p>The afternoon is for crafts: weave a <em>canang sari</em> offering from coconut leaves, feed the farm animals and taste fresh coconut, cacao and fruit straight from the garden.</p>",
+   "experiences": [
+    {
+     "title": "Plough the Paddies the Traditional Way",
+     "body": "Guide a pair of farm cows through the mud of the rice terrace and see how fields have been prepared for centuries."
+    },
+    {
+     "title": "Plant Rice with a Farming Family",
+     "body": "Learn the rhythm of planting seedlings by hand and hear how the subak water temples share every drop."
+    },
+    {
+     "title": "Cook a Village Lunch",
+     "body": "Grind fresh spices on a stone mortar and cook chicken betutu, vegetables urab and sambal matah."
+    },
+    {
+     "title": "Weave a Canang Sari Offering",
+     "body": "Fold coconut leaves into the small daily offerings you see everywhere in Bali and fill them with flowers."
+    }
+   ],
+   "included": [
+    "Farm guide & activities",
+    "Balinese lunch and fresh coconut",
+    "Farmer’s clothes and boots",
+    "Return transfer in Ubud area"
+   ],
+   "excluded": [
+    "Transfers outside Ubud area",
+    "Personal expenses",
+    "Gratuities"
+   ],
+   "important_notes": "Bring a change of clothes — you will get muddy!\nActivities depend on the season; harvest replaces planting from March to May.\nVegetarian cooking available on request."
+  },
+  "kecak-uluwatu-fire-dance": {
+   "image": "kecak-uluwatu.jpg",
+   "summary_image": "kecak/fire-night.jpg",
+   "gallery": [
+    {
+     "image": "kecak/kecak-circle.jpg",
+     "alt": "Kecak chanting circle at Uluwatu"
+    },
+    {
+     "image": "kecak/kecak-dancers.jpg",
+     "alt": "Kecak dancers in costume"
+    },
+    {
+     "image": "kecak/fire-night.jpg",
+     "alt": "Fire dance at night"
+    }
+   ],
+   "intro": "Watch a hundred chanting voices and the fire dance at sunset on the cliffs of Uluwatu Temple, 70 metres above the Indian Ocean.",
+   "description": "<p>The <strong>Kecak Fire Dance</strong> at Uluwatu is one of Bali’s unforgettable evenings. As the sun sinks into the ocean, a circle of seventy bare-chested men chant <em>cak-cak-cak</em> in hypnotic layers, telling the Ramayana story of Prince Rama, Princess Sita and the white monkey Hanuman.</p><p>The amphitheatre sits on the edge of the cliff beside Pura Luhur Uluwatu, one of Bali’s six sacred directional temples. Arrive early to walk the cliff path, watch the surfers far below and find a seat facing the sunset.</p><p>The show ends in a blaze as Hanuman dances through burning coconut husks — a dramatic finale lit only by fire and the last glow of the sky.</p>",
+   "experiences": [
+    {
+     "title": "Sunset over the Indian Ocean",
+     "body": "Take your seat in the cliff-top amphitheatre as the sky turns orange behind the dancers."
+    },
+    {
+     "title": "The Ramayana in Chant",
+     "body": "Seventy voices replace the gamelan, creating a hypnotic rhythm that tells the epic love story."
+    },
+    {
+     "title": "Hanuman’s Fire Finale",
+     "body": "The white monkey king kicks through burning husks in the most dramatic scene of the night."
+    },
+    {
+     "title": "Visit Uluwatu Temple",
+     "body": "Walk the cliff path to the 11th-century temple — and keep your sunglasses away from the monkeys!"
+    }
+   ],
+   "included": [
+    "Kecak show ticket",
+    "Uluwatu Temple entrance & sarong",
+    "Return transfer from South Bali",
+    "English-speaking driver"
+   ],
+   "excluded": [
+    "Dinner (Jimbaran seafood available)",
+    "Personal expenses",
+    "Tips"
+   ],
+   "important_notes": "The show starts at 6:00 PM; we leave South Bali around 4:00 PM.\nMonkeys at the temple grab glasses and phones — keep belongings secure.\nSeating is unreserved; arrive early for a sunset-facing seat."
+  },
+  "nusa-penida-snorkeling": {
+   "image": "nusa-penida-snorkeling.jpg",
+   "summary_image": "snorkel/reef-diver.jpg",
+   "gallery": [
+    {
+     "image": "snorkel/manta-below.jpg",
+     "alt": "Manta ray seen from below"
+    },
+    {
+     "image": "snorkel/manta-group.jpg",
+     "alt": "Group of manta rays near the surface"
+    },
+    {
+     "image": "snorkel/manta-blue.jpg",
+     "alt": "Manta ray in blue water"
+    },
+    {
+     "image": "snorkel/reef-fish.jpg",
+     "alt": "Coral reef with tropical fish"
+    }
+   ],
+   "intro": "Swim with giant manta rays at Manta Bay and snorkel three coral reefs off Nusa Penida with a licensed boat crew.",
+   "description": "<p>This <strong>Nusa Penida Snorkeling</strong> trip takes you to the island’s most famous marine sites in one morning. Our boat leaves Toya Pakeh at 8:30 AM for <em>Manta Bay</em>, where reef mantas with wingspans of up to four metres glide in to feed and be cleaned.</p><p>Next comes <em>Gamat Bay</em>, a gentle coral slope full of parrotfish and butterflyfish; <em>Crystal Bay</em> with its famously clear water; and <em>Wall Point</em>, where sea fans and soft corals cling to the island’s steep underwater cliffs.</p><p>Our guides are in the water with every group, life jackets are provided for all swimmers and the boat carries fresh water, fruit and towels. Underwater photos are included so you can simply enjoy the moment.</p>",
+   "experiences": [
+    {
+     "title": "Swim with Manta Rays",
+     "body": "Float above the cleaning station at Manta Bay as the giant rays circle just metres below you."
+    },
+    {
+     "title": "Coral Gardens of Gamat Bay",
+     "body": "Gentle slopes, schooling fish and hard corals in pristine condition — ideal for first-time snorkelers."
+    },
+    {
+     "title": "Crystal-Clear Crystal Bay",
+     "body": "Visibility often exceeds 20 metres in this sheltered bay on the west coast."
+    },
+    {
+     "title": "Underwater Photos Included",
+     "body": "Our guide films the mantas with a GoPro and shares every photo after the trip."
+    }
+   ],
+   "included": [
+    "Boat & licensed crew",
+    "Snorkel mask, fins & life jacket",
+    "Underwater GoPro photos",
+    "Fresh fruit, water & towel",
+    "Pick-up from Toya Pakeh harbor"
+   ],
+   "excluded": [
+    "Fast-boat ticket to Nusa Penida",
+    "Lunch",
+    "Marine park fee (IDR 25,000)"
+   ],
+   "important_notes": "Mantas are wild animals; sightings are very likely but not guaranteed.\nSea conditions are calmest before 11:00 AM.\nUse reef-safe sunscreen and never touch the mantas or coral."
+  },
+  "foto-adat-bali-kuta": {
+   "image": "foto-adat-kuta.jpg",
+   "summary_image": "adat/temple-gate.jpg",
+   "gallery": [
+    {
+     "image": "adat/temple-prayer.jpg",
+     "alt": "Woman praying in Balinese dress"
+    },
+    {
+     "image": "adat/procession.jpg",
+     "alt": "Temple procession in traditional attire"
+    },
+    {
+     "image": "costume-main.png",
+     "alt": "Balinese costume portrait"
+    }
+   ],
+   "intro": "Dress in full Balinese ceremonial attire for a professional photo session in Kuta — styled, photographed and edited the same day.",
+   "description": "<p><strong>Foto Adat Bali Kuta</strong> is a professional studio-and-garden photo session in full Balinese ceremonial dress, just minutes from Kuta Beach. Choose from over sixty sets of <em>payas agung</em> wedding attire, temple dress and dance costumes in silk and songket.</p><p>Our stylists take care of make-up, hair and the golden <em>gelungan</em> headdress, then the photographer guides you through poses in a carved temple-gate set, a frangipani garden and a classic studio backdrop.</p><p>You leave with 30 edited high-resolution photos delivered the same evening — a beautiful souvenir for couples, families, friends and solo travelers alike.</p>",
+   "experiences": [
+    {
+     "title": "Choose Your Ceremonial Costume",
+     "body": "Pick from royal wedding attire, temple dress or Legong dance costumes in silk and gold songket."
+    },
+    {
+     "title": "Professional Styling",
+     "body": "Make-up, hair and gold headdress are done by stylists who dress brides for real Balinese weddings."
+    },
+    {
+     "title": "Three Photo Sets",
+     "body": "Pose at a carved temple gate, in a frangipani garden and in the studio for a varied album."
+    },
+    {
+     "title": "Same-Day Edited Photos",
+     "body": "Receive 30 retouched high-resolution photos by email the same evening."
+    }
+   ],
+   "included": [
+    "Costume & accessories",
+    "Make-up & hair styling",
+    "Professional photographer",
+    "30 edited digital photos"
+   ],
+   "excluded": [
+    "Transportation",
+    "Printed photos",
+    "Additional edited photos"
+   ],
+   "important_notes": "Sessions last about 90 minutes including styling.\nCouples and groups up to 6 people can share one session.\nPlease arrive with clean, dry hair."
+  },
+  "kelingking-west-penida-day-tour": {
+   "image": "nusa-penida-tour.jpg",
+   "summary_image": "kelingking/coastline.jpg",
+   "gallery": [
+    {
+     "image": "kelingking/t-rex-cliff.jpg",
+     "alt": "Kelingking T-Rex cliff"
+    },
+    {
+     "image": "kelingking/aerial.jpg",
+     "alt": "Kelingking headland from above"
+    },
+    {
+     "image": "kelingking/beach-view.jpg",
+     "alt": "Kelingking Beach below the cliff"
+    },
+    {
+     "image": "kelingking/arch-rock.jpg",
+     "alt": "Rock arch on the west coast"
+    }
+   ],
+   "intro": "Visit Kelingking Beach, Broken Beach, Angel’s Billabong and Crystal Bay in one full day with a private driver and guide.",
+   "description": "<p>Our <strong>Kelingking &amp; West Penida Day Tour</strong> covers the island’s four most photographed places at a relaxed pace. Your private driver meets you at the harbor and drives the winding coastal roads, so all you need to do is enjoy the views.</p><p>The day starts at <em>Kelingking</em>, the famous T-Rex shaped headland above a white-sand cove. Next come <em>Broken Beach</em>, a natural archway where the sea rushes into a circular bay, and the tidal rock pool of <em>Angel’s Billabong</em>.</p><p>We finish at <em>Crystal Bay</em> for a swim and a fresh coconut as the afternoon light softens — or, if you prefer, a quick snorkel before the return boat.</p>",
+   "experiences": [
+    {
+     "title": "Kelingking T-Rex Viewpoint",
+     "body": "Stand above the most photographed cliff in Indonesia — and hike down towards the beach if you dare."
+    },
+    {
+     "title": "Broken Beach & Angel’s Billabong",
+     "body": "See the natural rock arch and the crystal-clear tidal pool, just a short walk apart."
+    },
+    {
+     "title": "Swim at Crystal Bay",
+     "body": "Cool off in calm turquoise water at the end of the day."
+    },
+    {
+     "title": "Private Driver & Flexible Pace",
+     "body": "Stay longer where you like; your driver adapts the itinerary around you."
+    }
+   ],
+   "included": [
+    "Private air-conditioned car & driver",
+    "All entrance & parking fees",
+    "Mineral water",
+    "Harbor pick-up & drop-off"
+   ],
+   "excluded": [
+    "Fast-boat ticket",
+    "Lunch",
+    "Snorkel gear rental"
+   ],
+   "important_notes": "Wear good shoes — the Kelingking trail is steep and takes 30–40 minutes each way.\nAngel’s Billabong is closed for swimming at high tide.\nBring cash for warungs and toilets."
+  },
+  "lembongan-mangrove-snorkeling-trip": {
+   "image": "lembongan-mangrove.jpg",
+   "summary_image": "mangrove/kayak-view.jpg",
+   "gallery": [
+    {
+     "image": "mangrove/boat-channel.jpg",
+     "alt": "Boat gliding through the mangrove channel"
+    },
+    {
+     "image": "mangrove/lagoon.jpg",
+     "alt": "Mangrove lagoon on a sunny day"
+    },
+    {
+     "image": "mangrove/kayak.jpg",
+     "alt": "Kayaking between the mangroves"
+    },
+    {
+     "image": "mangrove/turtle-reef.jpg",
+     "alt": "Sea turtle over the reef"
+    }
+   ],
+   "intro": "Glide through Lembongan’s mangrove forest by traditional boat, then snorkel the coral reefs of Mangrove Point and Gamat Bay.",
+   "description": "<p>The <strong>Lembongan Mangrove &amp; Snorkeling Trip</strong> combines Nusa Lembongan’s two natural treasures in a single half day. First, a local boatman poles you through the quiet channels of the 200-hectare mangrove forest on the island’s north-east coast.</p><p>Watch for kingfishers, mudskippers and herons as roots arch overhead, then head out to the reef at <em>Mangrove Point</em> for drift snorkeling over hard corals, giant clams and schools of fish — often with a passing turtle.</p><p>Depending on the tide we finish at <em>Gamat Bay</em> or <em>Crystal Bay</em> across the channel, with fruit and cold drinks served on board.</p>",
+   "experiences": [
+    {
+     "title": "Traditional Mangrove Boat Ride",
+     "body": "A local boatman poles you silently through the tunnels of the mangrove forest."
+    },
+    {
+     "title": "Drift Snorkel at Mangrove Point",
+     "body": "Let the gentle current carry you over the reef while you watch turtles and batfish."
+    },
+    {
+     "title": "Two Reefs in One Trip",
+     "body": "Add Gamat Bay or Crystal Bay depending on the tide for even more coral."
+    },
+    {
+     "title": "Small Groups",
+     "body": "A maximum of eight guests per boat keeps the trip relaxed and personal."
+    }
+   ],
+   "included": [
+    "Mangrove boat ride",
+    "Snorkel boat & guide",
+    "Mask, fins & life jacket",
+    "Fruit & mineral water",
+    "Pick-up on Nusa Lembongan"
+   ],
+   "excluded": [
+    "Fast-boat ticket",
+    "Lunch",
+    "Underwater camera rental"
+   ],
+   "important_notes": "Mangrove tours run on the high tide — your start time is confirmed the day before.\nChildren from 6 years welcome with a life jacket.\nUse reef-safe sunscreen only."
+  },
+  "devils-tear-island-cycling": {
+   "image": "lembongan-cycling.jpg",
+   "summary_image": "devils-tear/aerial-coast.jpg",
+   "gallery": [
+    {
+     "image": "devils-tear/waves.jpg",
+     "alt": "Waves exploding at Devil's Tear"
+    },
+    {
+     "image": "devils-tear/cliff-spray.jpg",
+     "alt": "Sea spray over the rugged cliffs"
+    },
+    {
+     "image": "devils-tear/sunset-rocks.jpg",
+     "alt": "Sunset over the rocky coast"
+    },
+    {
+     "image": "devils-tear/beach-bike.jpg",
+     "alt": "Cycling along the beach road"
+    }
+   ],
+   "intro": "Cycle the quiet roads of Nusa Lembongan and Ceningan — the Yellow Bridge, seaweed farms, Dream Beach and the crashing waves of Devil’s Tear.",
+   "description": "<p>The <strong>Devil’s Tear &amp; Island Cycling</strong> tour is the best way to discover Nusa Lembongan at an easy pace. With a local guide you ride comfortable bikes along coastal lanes, through villages and past the island’s colourful seaweed farms.</p><p>Cross the famous <em>Yellow Bridge</em> to Nusa Ceningan for views over the turquoise lagoon, then loop back to <em>Dream Beach</em> and <em>Devil’s Tear</em>, where swells crash into the limestone cliffs and send spray high into the air — often with a rainbow.</p><p>We time the ride to finish in the late afternoon light, with a fresh coconut on the cliffs as the sun sets behind Bali.</p>",
+   "experiences": [
+    {
+     "title": "Ride the Yellow Bridge",
+     "body": "Pedal across the iconic bridge linking Lembongan and Ceningan above the lagoon."
+    },
+    {
+     "title": "See the Seaweed Farms",
+     "body": "Learn how island families grow and dry seaweed, the traditional livelihood of Lembongan."
+    },
+    {
+     "title": "Feel the Power of Devil’s Tear",
+     "body": "Watch waves explode against the cliffs — and feel the spray from a safe distance."
+    },
+    {
+     "title": "Sunset Coconut on the Cliffs",
+     "body": "Finish the ride with a fresh coconut and golden light over Bali’s volcanoes."
+    }
+   ],
+   "included": [
+    "Bicycle & helmet",
+    "Local cycling guide",
+    "Fresh coconut & water",
+    "Hotel pick-up on Nusa Lembongan"
+   ],
+   "excluded": [
+    "Fast-boat ticket",
+    "Lunch",
+    "Personal expenses"
+   ],
+   "important_notes": "The route is about 18 km with a few short hills; e-bikes are available on request.\nStay behind the safety lines at Devil’s Tear — waves can be unpredictable.\nBring sunglasses and sunscreen."
+  },
+  "gili-trawangan-turtle-snorkeling": {
+   "image": "gili-snorkeling.jpg",
+   "summary_image": "turtle/reef-garden.jpg",
+   "gallery": [
+    {
+     "image": "turtle/green-turtle.jpg",
+     "alt": "Green sea turtle swimming in sunlight"
+    },
+    {
+     "image": "turtle/hawksbill.jpg",
+     "alt": "Hawksbill turtle from above"
+    },
+    {
+     "image": "turtle/blue-water.jpg",
+     "alt": "Turtle in deep blue water"
+    },
+    {
+     "image": "turtle/coral.jpg",
+     "alt": "Colourful coral reef"
+    }
+   ],
+   "intro": "Snorkel with green and hawksbill turtles around Gili Trawangan, Gili Meno and Gili Air on a glass-bottom boat trip.",
+   "description": "<p>The waters around the Gili Islands are one of the best places in Indonesia to swim with sea turtles. On this <strong>Gili Trawangan Turtle Snorkeling</strong> trip a glass-bottom boat takes you to three sites around the islands in one morning.</p><p>At <em>Turtle Point</em> off Gili Trawangan’s north-east coast, green and hawksbill turtles graze on seagrass in just a few metres of water. Next is the underwater <em>Nest</em> sculpture at Gili Meno — 48 life-size statues slowly becoming a living reef.</p><p>The trip ends on the coral gardens of <em>Gili Air</em>, with time for lunch on the beach before the boat returns you to Trawangan.</p>",
+   "experiences": [
+    {
+     "title": "Swim with Sea Turtles",
+     "body": "Float above green and hawksbill turtles as they feed on the seagrass at Turtle Point."
+    },
+    {
+     "title": "The Nest Statues at Gili Meno",
+     "body": "Snorkel over the famous underwater sculptures by Jason deCaires Taylor."
+    },
+    {
+     "title": "Coral Gardens of Gili Air",
+     "body": "Colourful hard corals and reef fish in calm, shallow water."
+    },
+    {
+     "title": "Glass-Bottom Boat",
+     "body": "Non-swimmers can enjoy the reef through the boat’s glass floor."
+    }
+   ],
+   "included": [
+    "Glass-bottom boat & crew",
+    "Snorkel mask & fins",
+    "Life jacket",
+    "Mineral water"
+   ],
+   "excluded": [
+    "Lunch on Gili Air",
+    "Underwater photos",
+    "Gili marine conservation fee"
+   ],
+   "important_notes": "Departs Gili Trawangan harbor at 10:00 AM.\nNever touch or chase the turtles — give them space to breathe.\nUse reef-safe sunscreen only."
+  },
+  "gili-sunset-horse-riding": {
+   "image": "gili-horse.jpg",
+   "summary_image": "horse/beach-walk.jpg",
+   "gallery": [
+    {
+     "image": "horse/sunset-rider.jpg",
+     "alt": "Rider on the beach at sunset"
+    },
+    {
+     "image": "horse/golden-hour.jpg",
+     "alt": "Riders at golden hour by the sea"
+    },
+    {
+     "image": "horse/shoreline.jpg",
+     "alt": "Horse on the shoreline at dusk"
+    }
+   ],
+   "intro": "Ride along the west coast beaches of Gili Trawangan at sunset with views of Bali’s Mount Agung and Lombok’s Rinjani.",
+   "description": "<p><strong>Gili Sunset Horse Riding</strong> is the most romantic way to end a day on Gili Trawangan. Starting at the stables on the island’s quiet west side, you ride along palm-fringed paths and down to the soft sand as the sun sinks towards Bali.</p><p>Our horses are calm, well cared for and matched to your experience — complete beginners are led by a groom, while experienced riders can trot along the waterline. Mount Agung rises across the strait as the sky turns pink and gold.</p><p>The ride lasts about an hour, with stops for photos on the beach. It is suitable for riders from 8 years old and a lovely experience for couples and families.</p>",
+   "experiences": [
+    {
+     "title": "Ride into the Sunset",
+     "body": "Follow the west coast beach as the sun sets behind Bali’s Mount Agung."
+    },
+    {
+     "title": "For All Levels",
+     "body": "Beginners are led by a groom; confident riders can trot along the shore."
+    },
+    {
+     "title": "Photo Stops on the Beach",
+     "body": "Your guide takes photos of you and your horse at the best light."
+    },
+    {
+     "title": "Well-Cared-For Horses",
+     "body": "Our horses are rested daily and never ridden in the midday heat."
+    }
+   ],
+   "included": [
+    "One-hour guided ride",
+    "Helmet",
+    "Photos by the guide",
+    "Mineral water"
+   ],
+   "excluded": [
+    "Transport to the stables",
+    "Tips for the grooms",
+    "Personal expenses"
+   ],
+   "important_notes": "Rides start 90 minutes before sunset.\nMaximum rider weight is 90 kg.\nWear long trousers and closed shoes."
+  }
+ },
+ "articles": {
+  "top-7-unmissable-snorkeling-spots-around-nusa-penida-gili-meno": {
+   "read_time_minutes": 8,
+   "hero_alt": "Manta rays gliding over a coral reef off Nusa Penida",
+   "body": "<p>From manta cleaning stations to turtle meadows, the reefs between Bali and Lombok are some of the richest in the Coral Triangle. These are the seven spots our captains and guides recommend most, with tips on when to go and who each one suits.</p><h2>1. Manta Point, Nusa Penida</h2><p>Reef mantas with wingspans of up to four metres visit this cleaning station almost every day of the year. Small wrasse pick parasites off their wings while snorkelers float above. Conditions can be choppy, so book a morning trip and bring a long-sleeve rash guard.</p><img src=\"/images/activities/detail/snorkel/manta-below.jpg\" alt=\"Manta ray seen from below at Manta Point\"><ul><li><strong>Best for:</strong> confident swimmers</li><li><strong>Best time:</strong> 8:00–11:00 AM</li><li><strong>Getting there:</strong> 35 minutes by boat from Toya Pakeh</li></ul><h2>2. Crystal Bay, Nusa Penida</h2><p>A calm, sheltered bay on the west coast with excellent visibility, colourful hard corals and the chance of spotting the mola-mola (ocean sunfish) between July and October. You can snorkel straight from the beach.</p><h2>3. Gamat Bay, Nusa Penida</h2><p>Gentle slopes, schooling fish and a fringing reef in pristine condition make Gamat Bay perfect for beginners and families. Look for parrotfish, moorish idols and the occasional reef shark resting on the sand.</p><h2>4. Mangrove Point, Nusa Lembongan</h2><ul><li>Best for drift snorkeling on an incoming tide.</li><li>Look out for turtles, batfish and giant clams.</li><li>Only 30 minutes by fast boat from Sanur.</li></ul><img src=\"/images/activities/detail/snorkel/reef-fish.jpg\" alt=\"Coral reef with tropical fish at Mangrove Point\"><h2>5. Turtle Point, Gili Trawangan</h2><p>Green and hawksbill turtles graze on the seagrass just off the north-east coast. Swim out from the beach or join a glass-bottom boat tour — and remember to give the turtles plenty of space.</p><img src=\"/images/activities/detail/turtle/green-turtle.jpg\" alt=\"Green sea turtle swimming at Turtle Point\"><h2>6. Nest Statues, Gili Meno</h2><p>Forty-eight life-size statues by Jason deCaires Taylor sit in four metres of water and are slowly becoming a living reef. Visit early in the morning for clear water and fewer boats.</p><h2>7. Toyapakeh Wall, Nusa Penida</h2><p>Strong currents bring nutrients that feed huge sea fans and soft corals. This is a site for confident swimmers with a guide; the boat follows you as you drift along the wall.</p><h2>Snorkeling etiquette</h2><ul><li>Wear reef-safe sunscreen or a rash guard instead.</li><li>Never stand on, touch or kick the coral.</li><li>Keep at least three metres from mantas and turtles.</li><li>Book licensed operators who brief you before every swim.</li></ul><blockquote>Always book licensed operators, wear reef-safe sunscreen and never touch the coral or the wildlife.</blockquote>"
+  },
+  "best-time-of-day-for-calm-waters-crossing-the-badung-strait-comfortably": {
+   "read_time_minutes": 6,
+   "hero_alt": "Fast boat crossing the calm Badung Strait at sunrise",
+   "body": "<p>The Badung Strait between Bali and Nusa Penida is only 20 kilometres wide, but it is one of the deepest channels in Indonesia. Water from the Pacific flows through it into the Indian Ocean, so tides, wind and swell can change the feel of your crossing completely. Here is how our captains choose the smoothest sailing.</p><h2>Why mornings are calmer</h2><p>Before the sea breeze builds, the surface of the strait is usually glassy. Most days the wind picks up after 11:00 AM and creates short, choppy waves. Departing between 7:00 and 9:00 AM gives you the calmest water and the best light for photos.</p><img src=\"/images/articles/content/fastboat-sanur.jpg\" alt=\"Fast boat waiting at Sanur with Mount Agung behind\"><h2>Reading the tide</h2><p>When the tide runs against the wind, waves stand up and the ride gets bumpy. Captains plan departures around slack tide where possible. You do not need to read tide tables yourself — but if you are sensitive to motion, ask us which departure has the most favourable tide that day.</p><h2>Seasons and swell</h2><ul><li><strong>April–October (dry season):</strong> steady south-east trade winds; mornings calm, afternoons choppy.</li><li><strong>November–March (wet season):</strong> lighter winds but occasional storms; crossings are often smoother outside rain squalls.</li><li><strong>Big swell days:</strong> boats may land on the sheltered side of the island or delay departures for safety.</li></ul><h2>Where to sit</h2><p>Choose a seat in the middle of the boat and near the back, where movement is gentlest. Keep your eyes on the horizon, avoid reading your phone and step outside for fresh air if the crew allows it.</p><img src=\"/images/articles/content/boat-aerial.jpg\" alt=\"Speedboat over turquoise water seen from above\"><h2>Beating seasickness</h2><ul><li>Eat a light breakfast — an empty stomach makes nausea worse.</li><li>Take ginger candy or motion-sickness tablets 30 minutes before boarding.</li><li>Sit facing forward and stay hydrated.</li><li>Book a larger catamaran on windy days.</li></ul><blockquote>The best crossing is an early one: book the first or second departure of the day and you will usually arrive before the wind does.</blockquote>"
+  },
+  "kelingking-t-rex-cliff-diamond-beach-how-to-plan-your-day-trip": {
+   "read_time_minutes": 7,
+   "hero_alt": "Kelingking T-Rex cliff above the turquoise sea",
+   "body": "<p>Kelingking’s T-Rex shaped headland and the white sand of Diamond Beach are Nusa Penida’s two most famous views — and they sit on opposite sides of the island. With an early boat and a good driver, you can see both in a single, unhurried day.</p><h2>Morning: catch the first boat</h2><p>Take the 7:00 or 7:30 AM fast boat from Sanur and you will land at Toya Pakeh or Banjar Nyuh before 8:30 AM. Arrange your driver in advance — they will be waiting at the harbor with your name.</p><h2>Kelingking first</h2><p>The drive to Kelingking takes about 50 minutes on narrow roads. Arriving before 10:00 AM means softer light, cooler temperatures and far fewer people on the viewpoint. The famous photo spot is a two-minute walk from the car park.</p><img src=\"/images/activities/detail/kelingking/aerial.jpg\" alt=\"Kelingking headland seen from above\"><h2>Should you hike down?</h2><ul><li>The trail to the beach is steep, partly bamboo railings and takes 30–40 minutes each way.</li><li>Wear proper shoes and bring at least one litre of water.</li><li>Swimming is dangerous because of strong waves — enjoy the sand, not the surf.</li></ul><h2>Lunch on the way east</h2><p>Stop at one of the warungs near Pejukutan for nasi campur and fresh juice. The drive across the island takes about 75 minutes and passes through villages, cashew farms and hills with views of Mount Agung.</p><h2>Afternoon: Diamond Beach</h2><p>A staircase carved into the cliff leads down to Diamond Beach, framed by sharp limestone pinnacles. The light is beautiful in the afternoon, and neighbouring Atuh Beach is a short walk away for a swim in calmer water.</p><img src=\"/images/articles/content/diamond-beach.jpg\" alt=\"Diamond Beach and its limestone pinnacles\"><img src=\"/images/articles/content/diamond-beach-rocks.jpg\" alt=\"Rock formations along the Diamond Beach coastline\"><h2>Getting back</h2><p>Leave Diamond Beach by 3:30 PM to catch a 4:30 or 5:00 PM boat back to Sanur. If you would rather not rush, spend the night at a hotel in the east and visit the Tree House at sunrise.</p><blockquote>Book your driver and the return boat before you go — on busy days the last departures sell out.</blockquote>"
+  },
+  "choosing-between-fast-ferry-vs-speedboat-comfort-speed-price-comparison": {
+   "read_time_minutes": 7,
+   "hero_alt": "Fast ferry and speedboat at a Bali harbor",
+   "body": "<p>All fast boats to the islands look similar from the beach, but the ride can be very different. Here is how the main types compare on comfort, speed and price so you can choose the right crossing for your trip.</p><h2>Large catamarans</h2><p>Twin hulls make catamarans the most stable option, especially on windy afternoons. They carry 100–200 passengers, have air-conditioned cabins and toilets, and usually board from a pier, so you keep your feet dry.</p><ul><li><strong>Crossing time:</strong> 40–50 minutes to Nusa Penida</li><li><strong>Best for:</strong> families, motion-sensitive travelers, lots of luggage</li></ul><h2>Mono-hull fast boats</h2><p>The most common boats on the Sanur routes. They are quick, frequent and good value, with indoor seats and an open deck at the back. On choppy days the ride feels livelier than on a catamaran.</p><img src=\"/images/articles/content/boat-passengers.jpg\" alt=\"Passengers on the deck of a fast boat\"><h2>Speedboats</h2><p>Smaller boats with powerful outboard engines and 30–60 seats. They are the fastest way to cross and often land directly on the beach, which means wading in knee-deep water. Expect a bumpy, exciting ride.</p><img src=\"/images/articles/content/speedboat-beach.jpg\" alt=\"Speedboat anchored off the beach\"><h2>Public slow ferry</h2><p>The Ro-Ro car ferry from Padang Bai is the cheapest option and carries cars and motorbikes, but it takes around two hours and departure times can change at short notice.</p><h2>Price comparison</h2><ul><li>Public ferry: from IDR 35,000 one way</li><li>Speedboat or mono-hull: IDR 150,000–250,000 one way</li><li>Catamaran: IDR 250,000–400,000 one way</li><li>Return tickets and hotel transfers are often bundled at a discount.</li></ul><h2>Our recommendation</h2><p>Choose a catamaran for comfort, a mono-hull for value and frequent departures, and a speedboat if you want to arrive quickly and do not mind getting your feet wet. Whatever you pick, book the morning departures for the calmest water.</p><blockquote>Penida Gili lists every operator with its vessel type, capacity and boarding style, so you know exactly what you are booking.</blockquote>"
+  },
+  "what-to-pack-for-an-island-getaway-to-nusa-lembongan-and-ceningan": {
+   "read_time_minutes": 6,
+   "hero_alt": "Yellow Bridge between Nusa Lembongan and Ceningan",
+   "body": "<p>Many boats to Nusa Lembongan land directly on Jungutbatu beach, roads are narrow and the sun is strong. Packing light and smart makes the whole trip easier. This is our checklist.</p><h2>The bag itself</h2><p>A soft backpack or duffel is far easier than a rolling suitcase on sand and stairs. Keep it under 15 kg so the crew can pass it from boat to beach, and use a dry bag or plastic liner for your electronics.</p><img src=\"/images/articles/content/backpack.jpg\" alt=\"Compact travel backpack ready for the island\"><h2>Clothes</h2><ul><li>Two swimsuits so one can always dry.</li><li>Light, quick-dry shorts and shirts.</li><li>A sarong — beach towel, cover-up and temple wear in one.</li><li>One long-sleeve layer for the boat and the evening breeze.</li></ul><h2>Shoes</h2><p>Bring sandals or water shoes you can wade in for the beach landing, plus a pair of trainers if you plan to hike to Kelingking or cycle across the Yellow Bridge to Ceningan.</p><h2>Sun and sea</h2><ul><li>Reef-safe sunscreen (SPF 50) and a hat.</li><li>Polarised sunglasses for spotting turtles and mantas.</li><li>Your own snorkel mask if you are fussy about fit.</li><li>A rash guard for long snorkel trips.</li></ul><img src=\"/images/articles/content/beach-gear.jpg\" alt=\"Beach gear laid out on the sand\"><h2>Money and documents</h2><p>ATMs on Lembongan sometimes run out of cash, so bring enough rupiah for small warungs and scooter rental. Keep a photo of your passport and your boat tickets on your phone.</p><h2>Little extras</h2><ul><li>Motion-sickness tablets or ginger candy for the crossing.</li><li>A reusable water bottle — refill stations are everywhere.</li><li>Insect repellent for the mangroves at dusk.</li><li>A headlamp; some lanes have no street lights.</li></ul><img src=\"/images/articles/content/pier-bali.jpg\" alt=\"Traveler on a pier looking over the turquoise sea\"><blockquote>Pack half the clothes you think you need — island days are spent in a swimsuit.</blockquote>"
+  },
+  "balinese-cultural-etiquette-visiting-pura-goa-giri-putri-and-sacred-temples": {
+   "read_time_minutes": 6,
+   "hero_alt": "Worshippers entering Pura Goa Giri Putri cave temple",
+   "body": "<p>Pura Goa Giri Putri is a Hindu temple hidden inside a limestone cave on Nusa Penida’s east coast. Visitors are warmly welcomed, but temples are active places of worship. These simple customs show respect to the community and make your visit more meaningful.</p><h2>Dress code</h2><ul><li>Wear a sarong (<em>kamen</em>) and a sash (<em>selendang</em>) — both are available to borrow at the entrance.</li><li>Cover your shoulders; a T-shirt is fine.</li><li>Remove hats and sunglasses inside the temple courtyards.</li></ul><img src=\"/images/activities/detail/adat/procession.jpg\" alt=\"Balinese women in traditional dress at a temple procession\"><h2>Entering the cave</h2><p>The entrance to Goa Giri Putri is a narrow gap in the rock reached by a stairway of about 110 steps. Inside, the cave opens into a vast hall with shrines for Hindu, Buddhist and Chinese deities. A priest will bless you with holy water and rice at the entrance.</p><h2>Behaviour inside temples</h2><ul><li>Speak quietly and never climb on shrines or walls.</li><li>Do not walk in front of people who are praying.</li><li>Ask before taking photos of priests or ceremonies; flash is not allowed.</li><li>Women who are menstruating are asked not to enter, by local custom.</li></ul><img src=\"/images/activities/detail/adat/temple-prayer.jpg\" alt=\"Woman praying with incense in Balinese dress\"><h2>Offerings</h2><p>You will see small woven trays called <em>canang sari</em> on doorsteps, shrines and even boats. Take care not to step on them. If you would like to make your own offering, the temple guardian can sell you one at the entrance.</p><img src=\"/images/articles/content/penjor.jpg\" alt=\"Decorated penjor bamboo pole for a ceremony\"><h2>Donations</h2><p>Entry is by donation. IDR 20,000–50,000 per person is customary and helps maintain the temple; place it in the donation box or hand it to the guardian.</p><h2>Other sacred places on Nusa Penida</h2><ul><li><strong>Pura Dalem Ped</strong> — the island’s most important sea temple near Ped village.</li><li><strong>Pura Paluang</strong> — the “car temple” in the hills, with shrines shaped like vehicles.</li><li><strong>Pura Segara Kidul</strong> — a small cliff temple above Banah.</li></ul><blockquote>A sarong, a smile and a small donation are all you need to be welcome in any Balinese temple.</blockquote>"
+  }
+ }
+}
